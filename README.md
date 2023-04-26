@@ -17,6 +17,6 @@ My solutions for [TOP's css-exercises](https://github.com/TheOdinProject/css-exe
     - [x] 02-flex-header
     - [x] 03-flex-header-2
     - [x] 04-flex-information
-    - [ ] 05-flex-modal
+    - [x] 05-flex-modal
     - [ ] 06-flex-layout
     - [ ] 07-flex-layout-2
