@@ -19,4 +19,4 @@ My solutions for [TOP's css-exercises](https://github.com/TheOdinProject/css-exe
     - [x] 04-flex-information
     - [x] 05-flex-modal
     - [x] 06-flex-layout
-    - [ ] 07-flex-layout-2
+    - [x] 07-flex-layout-2
