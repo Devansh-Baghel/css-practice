@@ -20,7 +20,11 @@ My solutions for [TOP's css-exercises](https://github.com/TheOdinProject/css-exe
     - [x] 05-flex-modal
     - [x] 06-flex-layout
     - [x] 07-flex-layout-2
-- [ ] Grid
+- [x] Grid
     - [x] 01-grid-layout-1
     - [x] 02-grid-layout-2
-    - [ ] 03-grid-layout-3
+    - [x] 03-grid-layout-3
+- [ ] Animation
+    - [ ] 01-button-hover
+    - [ ] 02-pop-up
+    - [ ] 03-dropdown-menu
