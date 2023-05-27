@@ -1,5 +1,7 @@
 # CSS Practice
-My solutions for [TOP's css-exercises](https://github.com/TheOdinProject/css-exercises)
+This is a detached fork of [TOP's css-exercises](https://github.com/TheOdinProject/css-exercises) to store all my solutions of these exercises.
+
+It's not a regular fork as [github won't show commits made in a fork on my profile.](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#commit-was-made-in-a-fork)
 
 ## Todo
 - [x] Foundations
